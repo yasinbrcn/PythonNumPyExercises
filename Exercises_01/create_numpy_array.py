@@ -25,8 +25,8 @@ def checkNumber(r_number):
 def writeArray(r_numpy_array_values,r_data_type,rw_row_value,rw_column_value):
     np_raw_array = np.array(r_numpy_array_values,dtype=r_data_type)
     np_array = np_raw_array.reshape([rw_row_value,rw_column_value])
-    print(np_array)
-
+    print("Created Array:" + "\n" + str(np_array))   
+    
 def createNumpyArray(r_row_value,r_column_value):
     numpy_array_values = []
     int_values = 0
