@@ -13,3 +13,10 @@ I mention seven functions you can use to create a numpy array in this exercise. 
 **- np.random.normal()**<br/>
 **- np.random.randint()**<br/>
 You can find explanations and examples of functions in this exercise.
+## . Exercise_3 - Search Engine
+The purpose of this exercise is to find integer values received from the user in a randomly generated numpy array.<br/>
+The program gives the following output:<br/>
+- The numpy list as generated randomly.(It is set to create an array with a maximum of 100 rows, 100 columns and 100 elements.)
+- Cell numbers of searched integer value.
+- Row and column numbers of randomly generated array.
+- How many times the searched integer value repeated in the array.
