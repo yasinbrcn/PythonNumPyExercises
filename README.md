@@ -1,7 +1,7 @@
 # Python NumPy Exercises
 ## . Exercise_1 - Creating a User Interactive Numpy Array
 The purpose of this project, creating is to one-dimensional array or two-dimensional array with user interaction.<br/>
-For code [explain.](https://github.com/yasinbrcn/PythonNumPyExercises/blob/main/Exercises_01/create_numpy_array.ipynb)
+For code [explain.](https://github.com/yasinbrcn/PythonNumPyExercises/blob/main/Exercise_01%20-%20Creating%20a%20User%20Interactive%20Numpy%20Array/create_numpy_array.ipynb)
 ## . Exercise_2 - Methods of Creating Numpy Array
 In this exercise, I have specified methods that can be used to create arrays with the python numpy library.<br/>
 I mention seven functions you can use to create a numpy array in this exercise. These functions are shown below.<br/>
