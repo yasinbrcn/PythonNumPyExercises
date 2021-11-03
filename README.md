@@ -20,3 +20,10 @@ The program gives the following output:<br/>
 - Cell numbers of searched integer value.
 - Row and column numbers of randomly generated array.
 - How many times the searched integer value repeated in the array.
+## . Exercise_4 - Four Operations In Numpy Arrays
+In this exercise I showed how to perform four operations in numpy arrays.</br>
+Methods I use for this are show below:</br>
+**- np.sum()**<br/>
+**- np.subtract()**<br/>
+**- np.multiply()**<br/>
+**- np.divide()**<br/>
